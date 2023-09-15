@@ -1,0 +1,9 @@
+.rodape{
+    display: flex;
+    justify-content: center;
+    font-size: 2vmin;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+}
+
